@@ -4,7 +4,7 @@
 #
 Name     : R-equate
 Version  : 2.0.7
-Release  : 6
+Release  : 7
 URL      : https://cran.r-project.org/src/contrib/equate_2.0.7.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/equate_2.0.7.tar.gz
 Summary  : Observed-Score Linking and Equating
@@ -32,10 +32,10 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C
-export SOURCE_DATE_EPOCH=1552754294
+export SOURCE_DATE_EPOCH=1552920646
 
 %install
-export SOURCE_DATE_EPOCH=1552754294
+export SOURCE_DATE_EPOCH=1552920646
 rm -rf %{buildroot}
 export LANG=C
 export CFLAGS="$CFLAGS -O3 -flto -fno-semantic-interposition "
