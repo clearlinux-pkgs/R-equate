@@ -4,7 +4,7 @@
 #
 Name     : R-equate
 Version  : 2.0.8
-Release  : 33
+Release  : 34
 URL      : https://cran.r-project.org/src/contrib/equate_2.0.8.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/equate_2.0.8.tar.gz
 Summary  : Observed-Score Linking and Equating
